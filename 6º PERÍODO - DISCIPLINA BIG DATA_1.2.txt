@@ -1,0 +1,133 @@
+6º PERÍODO - DISCIPLINA: BIG DATA- OLINDA
+
+EMENTA:
+Introdução ao big data, infraestrutura para big data, interfaces do big data, fundamentos
+de map reduce e hadoop, big data analítico, internet das coisas.
+COMPETÊNCIAS ESPECÍFICAS:
+• Tecnologias Fundamentais em Big Data
+• Gerenciamento de Big Data / Coleta ao Processamento (Dado bruto) e
+Processamento
+• Big Data Analítico
+• Soluções em Big Data / Consumo
+UNIDADE I
+INTRODUÇÃO AO BIG DATA
+INFRAESTRUTURA PARA BIG DATA
+INTERFACES DO BIG DATA
+UNIDADE II
+BANCO DE DADOS OPERACIONAL
+FUNDAMENTOS DE MAP REDUCE
+FUNDAMENTOS DE HADOOP
+UNIDADE III
+DEFINIÇÃO DE BIG DATA ANALÍTICO
+APLICAÇÃO DE ALGORITMOS PARA MODELAGEM PREDITIVA EM HADOOP
+APLICAÇÃO DE ALGORITMOS DE ANÁLISE DE CLUSTERING EM HADOOP
+VISUALIZAÇÃO DE DADOS
+UNIDADE IV
+DESENVOLVENDO SOLUÇÕES PARA ANÁLISE DE TEXTOS
+DESENVOLVENDO SOLUÇÕES PARA ANÁLISES DE REDES SOCIAIS
+INTERNET DAS COISAS
+ESTUDOS DE CASOS
+
+
+### Agosto
+
+**08/08/2024**
+- **Unidade I: Introdução ao Big Data e Infraestrutura para Big Data**
+  - Introdução aos conceitos de Big Data.
+  - Infraestrutura necessária para suportar sistemas de Big Data.
+  - Interfaces utilizadas em ambientes de Big Data.
+- **Atividade:** Discussão teórica e introdução aos principais conceitos.
+
+**15/08/2024**
+- **Unidade II: Banco de Dados Operacional e Fundamentos de Map Reduce**
+  - Compreensão do papel dos bancos de dados operacionais.
+  - Fundamentos do paradigma Map Reduce.
+- **Atividade:** Explicação teórica e exemplos práticos de Map Reduce.
+
+**22/08/2024**
+- **Unidade II (continuação): Fundamentos de Hadoop**
+  - Introdução ao Hadoop como plataforma para Big Data.
+- **Atividade:** Exemplos práticos utilizando Hadoop.
+
+**29/08/2024**
+- **Unidade III: Big Data Analítico e Visualização de Dados**
+  - Definição e características do Big Data analítico.
+  - Aplicação de algoritmos para modelagem preditiva e análise de clustering em Hadoop.
+  - Visualização de dados como ferramenta essencial para interpretação de resultados.
+- **Atividade:** Demonstração de casos práticos de análise e visualização de dados.
+
+### Setembro
+
+**05/09/2024**
+- **Unidade IV: Desenvolvendo Soluções para Análise de Textos**
+  - Métodos e técnicas para análise de textos em ambientes de Big Data.
+- **Atividade:** Implementação prática de soluções para análise de textos.
+
+**12/09/2024**
+- **Unidade IV (continuação): Desenvolvendo Soluções para Análises de Redes Sociais**
+  - Estratégias e ferramentas para análise de redes sociais em Big Data.
+- **Atividade:** Implementação prática de soluções para análises de redes sociais.
+
+**19/09/2024**
+- **Unidade IV (continuação): Internet das Coisas**
+  - Introdução aos conceitos e aplicações de Internet das Coisas (IoT) em Big Data.
+- **Atividade:** Estudo de casos e discussão sobre implementações de IoT em Big Data.
+
+**26/09/2024**
+- **Estudos de Casos**
+  - Análise de estudos de casos reais que aplicam os conceitos estudados ao longo do curso.
+- **Atividade:** Apresentação e discussão dos estudos de casos selecionados.
+
+### Outubro
+
+**03/10/2024**
+- **Revisão Geral**
+  - Revisão dos principais conceitos e técnicas abordadas até o momento.
+- **Atividade:** Preparação para avaliação ou prova.
+
+**10/10/2024**
+- **Avaliação**
+  - Aplicação de avaliação teórica e prática sobre o conteúdo estudado.
+- **Atividade:** Realização da avaliação.
+
+**11/10/2024**
+- **Feedback e Discussão**
+  - Análise dos resultados da avaliação.
+- **Atividade:** Discussão sobre melhorias e feedbacks sobre o curso até o momento.
+
+**18/10/2024**
+- **Projeto Final**
+  - Início da preparação para o projeto final.
+- **Atividade:** Discussão e definição dos detalhes do projeto final.
+
+**25/10/2024**
+- **Projeto Final (continuação)**
+  - Continuação do desenvolvimento do projeto final.
+- **Atividade:** Acompanhamento e suporte aos alunos no desenvolvimento.
+
+### Novembro
+
+**07/11/2024**
+- **Projeto Final (continuação)**
+  - Desenvolvimento e ajustes finais do projeto final.
+- **Atividade:** Implementação prática do projeto final.
+
+**14/11/2024**
+- **Apresentação do Projeto Final**
+  - Apresentação dos projetos finais desenvolvidos pelos alunos.
+- **Atividade:** Apresentação pública dos projetos e discussão.
+
+**21/11/2024**
+- **Encerramento**
+  - Feedback final e encerramento do curso.
+- **Atividade:** Feedback final, avaliação do curso e encerramento oficial.
+
+Datas para Laboratório 6° Período
+15/08/2024
+29/08/2024
+12/09/2024
+26/09/2024
+10/10/2024
+25/10/2024
+07/11/2024
+14/11/2024
